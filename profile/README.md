@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE>
 <h1>Hello everyone !</h1>
 <body>
   <div style="white-space:pre-line;">
